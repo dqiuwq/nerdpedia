@@ -1,0 +1,133 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: white;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	background: url('../images/main-bg.jpg') repeat;
+	}
+#wrapper {
+	z-index: 5;
+	margin: 0 auto;
+	width: 900px;
+	padding-top: 10px;
+	backgroundi: url('../images/wrapper-bg.png') repeat;
+	}
+#header-wrapper {
+	}
+#logo {
+	width: 100px;
+	height: 100px;
+	float: left;
+	}
+#banner {
+	float: right;
+	height: 100px;
+	width: 790px;
+	}
+#search-bar {
+	position: relative;
+	top: -10px;
+	right: 5px;
+	width: 260px;
+	float: right;
+	}
+#nav-bar {
+	position: relative;
+	top: -10px;
+	}
+#content-wrapper {
+	}
+#content-column {
+	background-image:url(../images/main-bg.jpg);
+	background-repeat:repeat-y;
+	padding: 5px;
+	}
+#left-column {
+	width: 180px;
+	float: left;
+	padding: 5px;
+	background-color:white;
+	}
+#right-column {
+	width: 690px;
+	float: right;
+	padding: 5px;
+	background-color:white;
+	}
+#social-wrapper {
+	margin-top: 10px;
+	height: 25px;
+	width: 100%;
+	padding: 5px;
+	}
+#social-left {
+	margin-top: 10px;
+	float: left;
+	width: 340px;
+	}
+#social-right {
+	float: right;
+	width: 100px;
+	}
+#footer {
+	margin-top: 10px;
+	height: 25px;
+	text-align: center;
+	color: white;
+	padding-top: 5px;
+	
+	background: #4c4e5a;
+    background: -webkit-linear-gradient(top, #4c4e5a 0%,#2c2d33 100%);
+    background: -moz-linear-gradient(top, #4c4e5a 0%,#2c2d33 100%);
+    background: -o-linear-gradient(top, #4c4e5a 0%,#2c2d33 100%);
+    background: -ms-linear-gradient(top, #4c4e5a 0%,#2c2d33 100%);
+    background: linear-gradient(top, #4c4e5a 0%,#2c2d33 100%);
+	}
+.clear {
+	clear: both;
+	}
+	
+#left-index
+{
+	float:left;
+	width:70%;
+	}
+.left-content
+{
+		margin-top: 15px;
+		background-color:white;
+		padding: 5px;
+		border-radius:7px;
+		}
+#right-index
+{
+	float:right;
+	width:28%;
+	}
+.right-content
+{
+	background-color:white;
+	border-radius:7px;
+}
+#image-slider
+{
+	clear:both;
+	width:100%;
+	}
+.paragraph
+{
+	text-align:justify;}
+#bf3-table
+{
+	border-collapse: collapse;}
+#bf3-table .header-title
+{
+	background-color: #DDDDDD;
+	}
+#bf3-table td
+{
+	border: 1px solid black;
+	padding: 5px;
+	}
+

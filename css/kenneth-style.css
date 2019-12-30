@@ -1,0 +1,122 @@
+	/* CSS Document */
+	.right-character td
+	{
+		width:320px;
+		height:40px;
+	}
+	/*
+	#ff-menu li
+	{
+		display:inline;
+		border: 1px solid;
+		border-bottom-width: 0;
+		margin: 0 0.5em 0 0;
+		
+		border-width: 1px 1px 0 1px;
+	}
+	#ff-menu ul {
+		list-style: none;
+		padding:0;
+		margin:0;
+	}
+	#info-char
+	{
+		border:1px solid black;
+	}
+	*/
+	
+    #ff-menu ul {
+		padding: 0;
+		margin: 0;
+    }
+    
+	#ff-menu li {
+		float: left;
+		border: 1px solid #bbb;
+		border-bottom-width: 0;
+		margin: 0;
+		list-style-type: none;
+    }
+    
+	#ff-menu a {
+		text-decoration: none;
+		display: block;
+		background: #eee;
+		padding: 0.24em 1em;
+		color: #00c;
+		width: 17em;
+		text-align: center;
+    }
+	
+	#ff-menu a:hover {
+		background: #ddf;
+	}
+	
+	#ff-menu #select {
+		border-color: black;
+	}
+	
+	#ff-menu #select a {
+		position: relative;
+		top: 1px;
+		background: white;
+		color: black;
+		font-weight: bold;
+	}
+	
+	#info {
+		border: 1px solid black;
+		clear: both;
+		padding: 0 1em;
+	}
+	
+	#to-top
+	{
+		float:right;
+	}
+	
+	#game
+	{
+		width:100%;
+		text-align:center;
+	}
+	
+	p
+	{
+		font-size:14px;
+	}
+	
+	.story-img
+	{
+		float:right;
+	}
+	
+	.story-img td
+	{
+		padding-bottom:10px;
+		text-align:center;
+	}
+	
+	.story-img img
+	{
+		float:right;
+		box-shadow: 10px 10px 5px #888888;
+	}
+	
+	.right-character td
+	{
+		font-size:14px;
+	}
+	
+	.left-menu li
+	{
+		padding:5px;
+	}
+	
+	.right-character
+	{
+		border-bottom:1px solid black;
+	}
+#content-column {
+	height: 700px;
+}

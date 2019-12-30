@@ -1,0 +1,75 @@
+/* CSS Document */
+.img_des
+{
+	margin: 0px;
+	}
+#game-products
+{
+	width: 690px;
+	padding: 4px 2px 2px 2px;
+	margin: 0;
+	/*margin-top: 120px;
+	position: absolute;*/
+	}
+
+#background_home
+{
+	background-image: url(../images/fps/bg_2.png);
+	}
+p
+{
+	text-align: justify;
+	line-height: 1.5;
+	}
+.thumbnails-cap
+{
+	margin: 5px 10px 5px 10px;
+	border: 1px solid #CCCCCC;
+	background-color: #F9F9F9;
+	padding: 5px;
+	}
+.thumbnails-cap img
+{
+	border: 1px solid #CCCCCC;
+	}
+.thumbnails-cap p
+{
+	text-align: center;
+	font-size: 10px;
+	color: black;
+	padding: 0;
+	margin: 0;
+	}
+.topics-link
+{
+	margin: 0;
+	line-height: 1.5;}
+.topics-link a
+{
+	text-decoration: none;
+	color:blue;}
+.topics-link a:hover
+{
+	text-decoration: underline;
+	}
+#class-list td
+{
+	vertical-align:top;
+	}
+.back-to-top
+{
+	text-align: center;
+	font-size: 11px;
+	width: 100%;
+	margin: 20px 0 10px 0;
+	}
+.back-to-top a
+{
+	color: blue;
+	text-decoration: none;}
+.back-to-top a:hover
+{
+	text-decoration: underline;}
+.frame{
+	margin-left: 25px;
+	margin-bottom: 20px;}

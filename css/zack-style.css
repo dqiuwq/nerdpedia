@@ -1,0 +1,63 @@
+/* CSS Document */
+
+#mainBar
+{
+border: 1px solid black;
+
+border-collapse:collapse;
+
+width:100%;
+
+text-align:center;
+
+align : middle;
+
+}
+
+
+#cheats
+{
+border: 1px solid black;
+
+border-collapse:collapse;
+}
+
+td
+{
+padding:5px;	
+}
+	
+	
+#titles
+{
+background-color:#009;
+color:#FFF;
+}
+
+#back
+{
+background-color:#C30;
+color:#FFF;
+border: 1px solid black;
+border-collapse:collapse;
+}
+
+
+#basic
+{
+border: 2px solid black;
+
+border-collapse:collapse;
+}
+
+
+#navBar
+{
+border: 1px solid black;
+
+border-collapse:collapse;
+
+width:100%;
+
+background-color:#06F;
+}
